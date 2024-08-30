@@ -12,6 +12,7 @@ Ocorrências emergênciais nas redes de distribuição:
 https://dadosabertos.aneel.gov.br/dataset/ocorrencias-emergenciais-nas-redes-de-distribuicao 
 
 Interrupções no fornecimento de energia: 
+https://dados.gov.br/dados/conjuntos-dados/interrupcoes-de-energia-eletrica-nas-redes-de-distribuicao
 
 Mapas bases disponibilizados: 
 Topográfico 
